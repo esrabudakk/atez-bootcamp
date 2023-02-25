@@ -19,5 +19,4 @@ function variadic(...numbers){
     return result;
 }
 
-
 console.log(variadic(5,"d",7))

@@ -11,13 +11,12 @@ function factorial(arg){
            return "Arg must be > or = to 0"
        else {
            for(let i = 1 ; i <= arg; i++)
-           {
                result *= i;
-           }
        }
    }
     return result
 }
+
 console.log(factorial(-5))
 console.log(factorial(5))
 console.log(factorial(0))
