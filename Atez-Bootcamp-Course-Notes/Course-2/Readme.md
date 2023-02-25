@@ -31,6 +31,7 @@
 * **git stash pop**  --> Restore the most recent stash and remove it from the stash list
 
 
+**Other Common Commands:**
 * **git push --set origin feature/B1**
 * **git merge bug/B1**
 * **git log**
