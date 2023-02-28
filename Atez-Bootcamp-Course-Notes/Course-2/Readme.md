@@ -22,15 +22,7 @@
 **STASH:**
 
 `git stash` *That is used to temporarily save changes in your working directory that are not ready to be committed.Sometimes, when working on a project, you may need to switch to a different branch or commit to work on a different task, but you have made changes to the current working directory that you don't want to commit yet.*
-
-* **git stash save "message"**  --> Save changes in the working directory to a stash
-* **git stash list**  --> List all stashes
-* **git stash apply**  --> Apply changes from the most recent stash
-* **git stash apply <stash_id>**  --> Apply changes from a specific stash
-* **git stash drop <stash_id>** --> Remove a specific stash
-* **git stash pop**  --> Restore the most recent stash and remove it from the stash list
-
-
+E
 **Other Common Commands:**
 * **git push --set origin feature/B1**
 * **git merge bug/B1**
