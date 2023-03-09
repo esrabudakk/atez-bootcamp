@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
